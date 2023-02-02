@@ -1,0 +1,4 @@
+ls -all
+cd inhere
+ls -all
+strings ./*
