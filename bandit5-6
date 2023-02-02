@@ -1,0 +1,4 @@
+ls -all
+cd inhere
+ls -all
+find -size 1033c ! -executable -exec bash -c "strings {}" \;
